@@ -1,7 +1,7 @@
 <h2 align="left">
   <abc>
     <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-    <br> I'm Athuridha, a Web Developer & Tech Enthusiast :computer:<br>
+    <br> I'm @athuridha, a Web Developer & Graphic Designer :computer:<br>
     <br>
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   </abc>
@@ -29,7 +29,7 @@
   <li>:computer: I'm a Web Developer passionate about creating seamless digital experiences.</li>
   <li>:hourglass_flowing_sand: Currently diving deeper into <b>Cloud Computing</b> and <b>ERP Systems</b>.</li>
   <li>:rocket: Open to collaborations and always exploring innovative technologies!</li>
-  <li>:zap: Fun fact: I love learning through tech meetups and conferences 🎉.</li>
+  <li>:art: I’m also a Graphic Designer, creating visual magic with tools like Photoshop & Illustrator.</li>
 </ul>
 
 ---
